@@ -29,7 +29,8 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
-    background-color: #fafafa;
+    background: #fafafa url("../images/bg_01.jpg") no-repeat right top;
+    background-size: cover;
 }
 .container {
   position: relative;
