@@ -29,7 +29,7 @@
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
-    background: #fafafa url("../images/bg_01.jpg") no-repeat right top;
+    background: #fafafa;
     background-size: auto;
 }
 .container {
